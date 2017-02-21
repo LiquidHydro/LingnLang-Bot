@@ -1,3 +1,5 @@
+[![Code Climate GPA](https://lima.codeclimate.com/github/TechBossIceWobs/LingnLang-Bot/badges/gpa.svg)](https://lima.codeclimate.com/github/TechBossIceWobs/LingnLang-Bot)
+[![Code Climate Issues](https://lima.codeclimate.com/github/TechBossIceWobs/LingnLang-Bot/badges/issue_count.svg)](https://lima.codeclimate.com/github/TechBossIceWobs/LingnLang-Bot)
 [![Pending Pull-Requests](http://githubbadges.herokuapp.com/TechBossIceWobs/LingnLang-Bot/pulls.svg)](https://github.com/TechBossIceWobs/LingnLang-Bot/pulls)
 [![Github Issues](http://githubbadges.herokuapp.com/TechBossIceWobs/LingnLang-Bot/issues.svg)](https://github.com/TechBossIceWobs/LingnLang-Bot/issues)
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/TechBossIceWobs/LingnLang-Bot/pulls)
